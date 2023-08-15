@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - suhu",
+            "request": "launch",
+            "mainClass": "suhu",
+            "projectName": "VSC_7751880d"
+        }
+    ]
+}
